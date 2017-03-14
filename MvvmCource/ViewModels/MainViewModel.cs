@@ -14,7 +14,7 @@ namespace MvvmCource.ViewModels
       private readonly IModelLoader m_modelLoader;
       private ObservableCollection<Customer> m_customers;
       private OpenCustomerDetaisCommand m_customerDetailsCommand;
-
+        test
       #endregion
 
       #region Properties
